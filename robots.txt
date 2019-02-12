@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aesool.zaraaxelrod.info/sitemap.xml
